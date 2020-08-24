@@ -1,1 +1,2 @@
-# matplotlib_pharma
+# matplotlib-challenge
+
